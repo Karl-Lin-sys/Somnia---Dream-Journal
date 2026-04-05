@@ -1,0 +1,5 @@
+{
+  "name": "Somnia - Dream Journal",
+  "description": "A multi-modal dream journal that transcribes your dreams, generates surrealist imagery, and provides Jungian psychological interpretation.",
+  "requestFramePermissions": ["microphone"]
+}
